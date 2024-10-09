@@ -29,3 +29,8 @@ span{
 .offer h4 a{
   color: red;
 }
+.offer{
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+}

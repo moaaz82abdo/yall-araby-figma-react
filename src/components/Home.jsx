@@ -77,12 +77,25 @@ function Home() {
     <div className="section2">
       <h1>See what <span>Yalla Araby </span> offers</h1>
       <div className="container-fluid">
+        <div className="row">
         <div className="offer">
           <img src="/assets.Frame 42.png" alt="frame2" />
           <h1>Grammatical correction</h1>
-          <h4><a href="">More <i className='icon arrow-left'></i> </a></h4>
+          <h4><a href="more">More <i className='icon arrow-left'></i> </a></h4>
         </div>
-      </div>
+        <div className="offer">
+          <img src="/assets.Frame 42.png" alt="frame2" />
+          <h1>Grammatical correction</h1>
+          <h4><a href="more">More <i className='icon arrow-left'></i> </a></h4>
+        </div>
+        <div className="offer">
+          <img src="/assets.Frame 42.png" alt="frame2" />
+          <h1>Grammatical correction</h1>
+          <h4><a href="more">More <i className='icon arrow-left'></i> </a></h4>
+        </div>
+      
+        </div>
+       </div>
     </div>
     </>)
 }

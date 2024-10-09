@@ -8,6 +8,7 @@ import FindATeacher from './components/FindATeacher';
 import EducationServise from './components/EducationServise';
 import TakeAnExam from './components/TakeAnExam';
 import JoinUs from './components/JoinUs';
+import More from './components/More';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
          <Route path='educationservice' element={<EducationServise />}/>
          <Route path='takeanexam' element={<TakeAnExam />}/>
          <Route path='joinus' element={<JoinUs />}/>
+         <Route path='more' element={<More />}/>
       </Routes>
      
      <Footer />
