@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import './navbar.css'
+import '../../assets/logo.png'
 
 export default function Navbar() {
   return (
@@ -10,6 +11,7 @@ export default function Navbar() {
   <Link className="navbar-brand" href="#">
 
   <h4 className='text-red'>يلا عربي </h4>
+  <img src="../../assets/logo.png" alt="logo" />
   </Link>
 
   </div>

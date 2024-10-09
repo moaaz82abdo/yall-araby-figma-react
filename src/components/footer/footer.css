@@ -1,9 +1,11 @@
-.map{
-    background-image: url(./map.png);
-    background-position: center;
-    background-size: cover;
-}
+
 .footer{
     position: fixed;
     bottom: 0;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    
 }
