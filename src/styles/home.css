@@ -1,0 +1,119 @@
+.bgHome{
+    background-color: #F3F3F3;
+}
+
+/* .row{ gap: 20px;} */
+
+
+.cardTec{
+    width: 552px;
+    height: 186px;
+    background-color: #fff;
+    border-radius: 5px;
+    margin:20px 20px ;
+    .rateTec{
+        
+            color:#ffc400;
+            font-size: 10px;
+            line-height: 15px;
+
+        }
+    
+    .Data {
+        text-align: start;
+        h4{
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 19.5px;
+        }
+        h5, h6{
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 15px;
+        }
+        span{
+            font-weight: 500;
+            color:#000;
+            
+        }
+        p{
+            font-weight: 400;
+            font-size: 10px;
+            color: #626262;
+            line-height: 11.73px;
+            text-align: justify;
+        }
+        .rateTec{
+            color:#ffc400;
+            font-size: 10px;
+            line-height: 15px;
+        }
+
+        
+        .priceTec{
+            .btnData{
+                font-size: 16px;
+                    font-weight: 400;
+                    line-height: 19.36px;
+                    background-color: #e63561;
+                    color:#fff;
+                    width: 112px;
+                    height: 20px;
+                    display: flex;             
+                    align-items: center;       
+                    justify-content: center; 
+                    padding: 10px 20px;  
+            }
+    
+    
+        }
+    
+    }
+    
+}
+
+.btnHomeOne{
+    .btnHone{
+        width: 235px;
+        height: 47px;
+        padding:10px 25px;
+        background-color: #e8eaf6;
+        color:#3f51b5;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19.36px;
+    }
+    
+}
+
+.HomeTwo{
+    /* background-color: #3f51b5; */
+    .HeaderHomeOne{
+        h3{
+            font-weight: 700;
+            font-size: 25px;
+            line-height: 37.5px;
+            span{
+                color:#e63561;
+            }
+        }
+    
+
+    }
+
+    .cardHomeTwo{
+        h3{
+            
+                font-size:20px;
+                font-weight: 600;
+                line-height: 30px;
+            }
+            a{
+                color:#e36561;
+                font-size: 15px;
+                font-weight: 700;
+                line-height: 22.5px;
+                text-decoration: none;
+            }
+        }
+    }

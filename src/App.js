@@ -23,7 +23,7 @@ function App() {
          <Route path='more' element={<More />}/>
       </Routes>
      
-     <Footer />
+     <Footer/>
     </div>
   );
 }
